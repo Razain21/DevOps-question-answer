@@ -28,21 +28,48 @@ This file used to Q\&A's of overall Devops journey.
 27. What is ELB & why is it used?
 28. How to Launch ELB?
 29. Explain types of ELB?
-30. What is Cache & why is it used?
-31. Types of Storages in AWS?
-32. Difference between block storage & Object storage?
-33. What is S3 and why is it used?
-34. How to Launch S3?
-35. types of S3?
-36. Explain Policy in S3
-37. What is 99.99999999999% ?
-38. What is CORS ?
-39. What is versioning & MFA?
-40. Difference between versioning and replica?
-41. How to take backup in EBS?
-42. What is EBS & why is it used?
-43. In block storage minimum and maximum storage of each block?
-44. why we store data in blocks in block storage?
-45. Why we used EBS or not S3 for O.S?
-46. Diff
+30. In application LB , what is internet & internal facing?
+31. What is Cache & why is it used?
+32. Types of Storages in AWS?
+33. Difference between block storage & Object storage?
+34. What is S3 and why is it used?
+35. How to Launch S3?
+36. types of S3?
+37. Explain Policy in S3
+38. What is 99.99999999999% ?
+39. What is CORS ?
+40. What is versioning & MFA?
+41. Difference between versioning and replica?
+42. How to take backup in EBS?
+43. What is EBS & why is it used?
+44. In block storage minimum and maximum storage of each block?
+45. Difference between AMI & snapshot?
+46. WHat is IAM, User, group, Role & policy?
+47. Difference between inline policy & managed policy?
+48. How to attach policy on user?
+49. What is assume role in AMI?
+50. How EC2 permission to S3 bucket?
+51. why we store data in blocks in block storage?
+52. Why we used EBS or not S3 for O.S?
+53. What is trust policy?
+54. What is cloudfront & wht is it used?
+55. In cloudfront wxplain working & explain terms like cache, nearest location, etc..
+56. What is route53 and explain its working?
+57. why we used route53?
+58. What is DNS & wht is it used?
+59. Explain OSI module?
+60. In OSI module explain used of all 7 layer in details, why is it used?
+61. Amazon certification Manager?
+62. What is WAF, Web ACL& IP set?
+63. Difference between Application & network load balancer?
+64. Explain latancy, routing & Internet package?
+65. Explain encrepted & decrepted data?
+66. Max capacity of S3 bucket?
+67. What is packet of data?
+68. Difference between internal & external load balancer?
+69. SSL(secure socket layer) & TLS(Transport layer security)
+70. Static & Dynamic data in cloudfront?
+71. How to access internet in NAT Gateway?
+72. How to access oure private EC2 from Publice EC2?
+73. 
 
