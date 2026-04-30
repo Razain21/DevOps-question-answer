@@ -24,5 +24,25 @@ This file used to Q\&A's of overall Devops journey.
 23. What is Min, Max & Desired capacityt in ASG?
 24. Can ASG work without Load Balancer?
 25. What is cooldown period in ASG?
-26. 
+26. Working of 3-tier AWS architectur is used?
+27. What is ELB & why is it used?
+28. How to Launch ELB?
+29. Explain types of ELB?
+30. What is Cache & why is it used?
+31. Types of Storages in AWS?
+32. Difference between block storage & Object storage?
+33. What is S3 and why is it used?
+34. How to Launch S3?
+35. types of S3?
+36. Explain Policy in S3
+37. What is 99.99999999999% ?
+38. What is CORS ?
+39. What is versioning & MFA?
+40. Difference between versioning and replica?
+41. How to take backup in EBS?
+42. What is EBS & why is it used?
+43. In block storage minimum and maximum storage of each block?
+44. why we store data in blocks in block storage?
+45. Why we used EBS or not S3 for O.S?
+46. Diff
 
