@@ -1,4 +1,5 @@
 This file used to Q\&A's of overall Devops journey.
+A) Based on AWS 
 1. What is EC2 & discribe its types?
 2. How to Launch EC2 ?
 3. What is AMI & types?
@@ -73,3 +74,4 @@ This file used to Q\&A's of overall Devops journey.
 72. How to access oure private EC2 from Publice EC2?
 73. 
 
+B) Based on
